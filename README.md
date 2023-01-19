@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Miguel Medeiros 😁
 
  <div>
    <a href="https://github.com/Miguel-Medeiros">
